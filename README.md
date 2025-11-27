@@ -1,6 +1,6 @@
 # [Nama Tugas/Mata Kuliah]
 
-Repository ini berisi kumpulan tugas mingguan untuk [nama mata kuliah/project]. Setiap minggu dikerjakan dalam branch terpisah dengan notebook dan dokumentasi lengkap.
+Repository ini berisi kumpulan tugas mingguan untuk matakuliah Bioinformatika. Setiap minggu dikerjakan dalam branch terpisah dengan notebook dan dokumentasi lengkap.
 
 ## 📚 Daftar Isi
 - [Tentang Repository](#tentang-repository)
@@ -9,7 +9,7 @@ Repository ini berisi kumpulan tugas mingguan untuk [nama mata kuliah/project]. 
 - [Kontak](#kontak)
 
 ## Tentang Repository
-Repository ini dibuat untuk menyelesaikan tugas [sebutkan topik/mata kuliah]. Setiap week memiliki objektif dan target pembelajaran yang berbeda.
+Repository ini dibuat untuk menyelesaikan tugas klasifikasi DBP Binding vs Non-Binding. Setiap week memiliki objektif dan target pembelajaran yang berbeda.
 
 ## Struktur Repository
 Repository ini terbagi menjadi beberapa branch:
@@ -25,6 +25,5 @@ Repository ini terbagi menjadi beberapa branch:
 4. Baca README di setiap branch untuk detail objektif dan target
 
 ## Kontak
-- Nama: [Nama kamu]
-- Email: [Email kamu]
-- LinkedIn/Portfolio: [opsional]
+- Nama: Alamsyah Wijaya Massie
+- Email: Alamsyahmassie18@gmail.com
